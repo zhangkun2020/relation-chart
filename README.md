@@ -52,11 +52,11 @@ new RelationChart(domElement, data[, config])
     // 节点列表
     nodes:[
         {
-            "name": "路人甲",
+            "name": "甲",
             "avatar": "./img/140646844806.jpg"
         },
         {
-            "name": "路人乙",
+            "name": "乙",
             "avatar": "./img/141611471224.jpg"
         },
         {
